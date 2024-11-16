@@ -53,7 +53,7 @@ function openImgViewer(url) {
   image_viewer.id = 'i2gh';
 
   image_viewer.innerHTML = `
-      <div id="ia2j" onclick="closeImgViwer()">
+      <div id="ia2j">
         <img id="iwvbe" onclick="closeImgViwer()" src="./res/closer_icon.png"/>
         <img id="i29r3" src="${url}"/>
         <div id="ifdpq">
