@@ -21,3 +21,6 @@ Este projeto foi desenvolvido para:
 2. Praticar o consumo de APIs públicas para integração de dados dinâmicos.  
 3. Explorar ferramentas de criação visual como o GrapesJS.  
 4. Criar uma interface interativa e responsiva, semelhante a uma aplicação real.
+
+## Exemplo
+- [Try Instabytes](https://raqui333.github.io/frontend_test/)
